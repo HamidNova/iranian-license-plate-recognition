@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+Iranis_Dataset/
+
+models/*.pkl
